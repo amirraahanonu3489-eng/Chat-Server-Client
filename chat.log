@@ -1,0 +1,26 @@
+[2026-01-17T08:32:43.182Z] Client1 connected
+[2026-01-17T08:32:57.098Z] Client2 connected
+[2026-01-17T08:36:29.825Z] Client3 connected
+[2026-01-17T08:37:07.262Z] Client1 connected
+[2026-01-17T08:37:16.488Z] Client2 connected
+[2026-01-17T08:37:55.381Z] Client1 connected
+[2026-01-17T08:38:11.882Z] Client2 connected
+[2026-01-17T08:41:40.714Z] Client1 connected
+[2026-01-17T08:41:47.264Z] Client1: hi everyone
+[2026-01-17T08:41:57.203Z] Client2 connected
+[2026-01-17T08:42:01.222Z] Client2: hi everyone
+[2026-01-17T08:54:38.403Z] Client1 connected
+[2026-01-17T08:54:46.599Z] Client2 connected
+[2026-01-17T08:54:49.458Z] Socket error: read ECONNRESET
+[2026-01-17T08:56:00.958Z] Client3 connected
+[2026-01-17T08:56:14.685Z] Socket error: read ECONNRESET
+[2026-01-17T09:16:43.010Z] Client1 connected
+[2026-01-17T09:16:49.805Z] Client2 connected
+[2026-01-17T09:16:52.983Z] Socket error (Client2): read ECONNRESET
+[2026-01-20T14:46:27.981Z] Client3 connected
+[2026-01-20T14:46:40.158Z] Socket error (Client1): read ECONNRESET
+[2026-01-20T14:46:57.536Z] Socket error (Client3): read ECONNRESET
+[2026-01-20T14:50:09.518Z] Client1 connected
+[2026-01-20T14:50:16.530Z] Client2 connected
+[2026-01-20T14:50:26.255Z] Socket error (Client2): read ECONNRESET
+[2026-01-20T14:50:26.260Z] Client2 disconnected
